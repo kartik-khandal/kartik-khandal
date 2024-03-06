@@ -36,11 +36,13 @@ SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24
   <img
     src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img
+    src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+  <img
     src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img
     src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java%20-%23DD0031.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java%20-%230080FF.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/c%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
   <img
     src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;&nbsp;
