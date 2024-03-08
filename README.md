@@ -9,7 +9,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24
 
 <img src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://kartik-khandal.github.io/portfolio.github.io/home.html)**
+- 🙋‍♂️ All about me is at **[My Website](https://kartik-khandal-portfolio.netlify.app)**
 
 - 🌱 I’m currently working at Leadwinner corp as a Full-Stack-Developer
 
