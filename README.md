@@ -84,11 +84,21 @@ SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-khandal" target="_blank"><img align="center"
-      src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="kartikkhandal74@gmail.com" href="mailto:gaurav8090983461@gmail.com" target="_blank"><img align="center"
-      src="https://cdn-icons-png.flaticon.com/128/888/888853.png" width="50px" alt="mail-me" /></a>
+  <a href="https://www.linkedin.com/in/kartik-khandal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/kartikkhandal74" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/kartikkhandal74" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:kartikkhandal74@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+
 
 
 
