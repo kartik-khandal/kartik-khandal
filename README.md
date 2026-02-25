@@ -3,7 +3,7 @@
 <br>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1100&lines=Currently+Working+As+A+Full-Stack+Web+Development+At+Leadwinner+Corp+Pvt+Ltd.;Open-Source+Developer;Nice+to+meet+you...)
+SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1100&lines=Currently+Working+As+A+Senior+Software+Engineer+At+SS&C+Technologies.;Open-Source+Developer;Nice+to+meet+you...)
 <br>
 
 ## 👨🏻‍💻 About Me
@@ -41,7 +41,6 @@ high-volume claims adjudication and processing.
 
 
 
-## 🛠 Tech Stack
 <hr>
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
 <p>
