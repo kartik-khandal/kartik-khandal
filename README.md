@@ -3,7 +3,7 @@
 <br>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1100&lines=Currently+Working+As+A+Senior+Software+Engineer+At+SS&C+Technologies.;Open-Source+Developer;Nice+to+meet+you...)
+SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1100&lines=Currently+Working+As+A+Senior+Software+Engineer+At+SS%26C+Technologies.;Open-Source+Developer;Nice+to+meet+you...)
 <br>
 
 ## 👨🏻‍💻 About Me
