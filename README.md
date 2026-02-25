@@ -5,22 +5,35 @@
 ![Typing
 SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=1100&lines=Currently+Working+As+A+Full-Stack+Web+Development+At+Leadwinner+Corp+Pvt+Ltd.;Open-Source+Developer;Nice+to+meet+you...)
 <br>
-## 👨🏻‍💻 About Me:
+
+## 👨🏻‍💻 About Me
 
 <img src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://kartik-khandal-portfolio.netlify.app)**
-
-- 🌱 I’m currently working at Leadwinner corp as a Full-Stack-Developer
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned
-
-- 💓 I love designing websites and coding.
-
-- 📫 How to reach me **kartikkhandal74@gmail.com**
+- 💼 Senior Software Engineer at **SS&C Technologies**
+- 🏥 Currently working on **DomaniRx®** – Enterprise Pharmacy Benefit Administration Platform
+- ⚙️ Building large-scale, module-based enterprise applications
+- 🚀 Strong focus on Java, Spring Boot, and event-driven systems
+- 🌐 Previously worked on Government Financial Systems (FMS, SquareUp)
+- 📫 Reach me at **kartikkhandal74@gmail.com**
+- 🌍 Portfolio: **https://kartik-khandal-portfolio.netlify.app**
 
 <br>
 
+---
+
+## 🏢 Current Work
+
+### 🔹 DomaniRx® (SS&C Technologies)
+Enterprise-grade Pharmacy Benefit Administration platform supporting  
+high-volume claims adjudication and processing.
+
+- Designing and maintaining RESTful APIs  
+- Working on module-based monolithic architecture  
+- Implementing event-driven workflows using Apache Kafka  
+- Optimizing performance for high-throughput healthcare transactions  
+
+---
 
 
 
@@ -28,6 +41,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24
 
 
 
+## 🛠 Tech Stack
 <hr>
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
 <p>
